@@ -1,0 +1,230 @@
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	172 ms
+	rx bytes:	24939701
+	rx packets:	115122
+	tx bytes:	47655668
+	tx packets:	77512
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-40 [-55, -40] dBm
+	signal avg:	-37 [-53, -37] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7661 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	52 ms
+	rx bytes:	24946661
+	rx packets:	115204
+	tx bytes:	47658020
+	tx packets:	77530
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-37 [-54, -37] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7671 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	664 ms
+	rx bytes:	24952785
+	rx packets:	115282
+	tx bytes:	47659056
+	tx packets:	77538
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-53, -37] dBm
+	signal avg:	-36 [-52, -36] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7681 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	484 ms
+	rx bytes:	24956841
+	rx packets:	115341
+	tx bytes:	47659056
+	tx packets:	77538
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-53, -37] dBm
+	signal avg:	-36 [-53, -36] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7691 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	192 ms
+	rx bytes:	24961521
+	rx packets:	115411
+	tx bytes:	47659056
+	tx packets:	77538
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-36 [-53, -36] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7701 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	368 ms
+	rx bytes:	24965757
+	rx packets:	115473
+	tx bytes:	47659056
+	tx packets:	77538
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-36 [-53, -36] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7711 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	60 ms
+	rx bytes:	24971841
+	rx packets:	115554
+	tx bytes:	47660372
+	tx packets:	77548
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-37 [-53, -37] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7721 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	8 ms
+	rx bytes:	24979461
+	rx packets:	115653
+	tx bytes:	47662724
+	tx packets:	77566
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-37 [-53, -37] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7731 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	64 ms
+	rx bytes:	24985257
+	rx packets:	115731
+	tx bytes:	47663760
+	tx packets:	77574
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-37 [-54, -37] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7742 seconds
+Station b8:27:eb:48:40:76 (on wlp6s0)
+	inactive time:	252 ms
+	rx bytes:	24989589
+	rx packets:	115794
+	tx bytes:	47663760
+	tx packets:	77574
+	tx retries:	11655
+	tx failed:	0
+	rx drop misc:	77
+	signal:  	-37 [-54, -37] dBm
+	signal avg:	-36 [-53, -36] dBm
+	tx bitrate:	54.0 MBit/s
+	rx bitrate:	54.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	preamble:	long
+	WMM/WME:	no
+	MFP:		no
+	TDLS peer:	no
+	DTIM period:	0
+	beacon interval:100
+	connected time:	7752 seconds
